@@ -1,0 +1,206 @@
+{
+    "data": [
+        {
+            "src": 0,
+            "time": 1714638721512,
+            "sent_time": "15:32:01 02/05/2024",
+            "from_id": "3642371097976835684",
+            "from_display_name": "Wecare - Chăm sóc khách hàng",
+            "from_avatar": "https://s240-ava-talk.zadn.vn/e/1/8/6/2/240/2f9da721faa048dfbeb7660757bfc75f.jpg",
+            "to_id": "7209432545036019045",
+            "to_display_name": "Châu Yến Nhi",
+            "to_avatar": "https://s240-ava-talk.zadn.vn/b/0/6/0/10/240/c34cc27e0d28bb38b4e7bc5c662f1a79.jpg",
+            "message_id": "550787ba164e16144f5b",
+            "type": "text",
+            "message": "1, Giá công nợ:\nKẽm đen (mềm) 1mm: 18,800đ/kg\nKẽm đen Kim Tín 1mm: 19.200đ/kg\n\n2, Giá tốt cho khách hàng thanh toán trước khi nhận hàng (Áp dụng số lượng từ 1 cuộn) \nKẽm đen (mềm) 1mm: 18,300đ/kg\nKẽm đen Kim Tín 1mm: 18,700đ/kg"
+        },
+        {
+            "src": 0,
+            "time": 1714638709707,
+            "sent_time": "15:31:49 02/05/2024",
+            "from_id": "3642371097976835684",
+            "from_display_name": "Wecare - Chăm sóc khách hàng",
+            "from_avatar": "https://s240-ava-talk.zadn.vn/e/1/8/6/2/240/2f9da721faa048dfbeb7660757bfc75f.jpg",
+            "to_id": "3026916085691737961",
+            "to_display_name": "Điện Nước Thanh Tùng",
+            "to_avatar": "https://s240-ava-talk.zadn.vn/6/4/4/1/29/240/916b8987d0d1b81be120faed7a14069d.jpg",
+            "message_id": "24eddfa53351330b6a44",
+            "type": "text",
+            "message": "Dạ Con cám ơn cô nhiều!"
+        },
+        {
+            "src": 1,
+            "time": 1714638683702,
+            "sent_time": "15:31:23 02/05/2024",
+            "from_id": "4965676485718860161",
+            "from_display_name": "Phương Phương",
+            "from_avatar": "https://s240-ava-talk.zadn.vn/2/5/c/3/50/240/9823ac52a405860129fd981ff070e469.jpg",
+            "to_id": "3642371097976835684",
+            "to_display_name": "Wecare - Chăm sóc khách hàng",
+            "to_avatar": "https://s240-ava-talk.zadn.vn/e/1/8/6/2/240/2f9da721faa048dfbeb7660757bfc75f.jpg",
+            "message_id": "e65858e39217924dcb02",
+            "type": "text",
+            "message": "Bên m có vít bắn kính này không em"
+        },
+        {
+            "src": 1,
+            "time": 1714638659871,
+            "sent_time": "15:30:59 02/05/2024",
+            "from_id": "3668139667504765327",
+            "from_display_name": "Phạm Thu Hiền - Ch Xuân Liên",
+            "from_avatar": "https://s240-ava-talk.zadn.vn/e/c/c/3/23/240/309f25d7b8d58131fbcc3d006e4ce866.jpg",
+            "to_id": "3642371097976835684",
+            "to_display_name": "Wecare - Chăm sóc khách hàng",
+            "to_avatar": "https://s240-ava-talk.zadn.vn/e/1/8/6/2/240/2f9da721faa048dfbeb7660757bfc75f.jpg",
+            "message_id": "22d4b42d69d9698330cc",
+            "type": "text",
+            "message": "Gửi công nợ giúp em từ ngày 23/4 nhé"
+        },
+        {
+            "src": 0,
+            "time": 1714638516840,
+            "sent_time": "15:28:36 02/05/2024",
+            "from_id": "3642371097976835684",
+            "from_display_name": "Wecare - Chăm sóc khách hàng",
+            "from_avatar": "https://s240-ava-talk.zadn.vn/e/1/8/6/2/240/2f9da721faa048dfbeb7660757bfc75f.jpg",
+            "to_id": "2613580781925051693",
+            "to_display_name": "Vy Nguyễn",
+            "to_avatar": "https://s240-ava-talk.zadn.vn/7/2/1/a/12/240/dd016af05d28e42a77238819c5d27d2d.jpg",
+            "message_id": "28a7c3d16824687e3131",
+            "type": "nosupport"
+        },
+        {
+            "src": 0,
+            "time": 1714638490041,
+            "sent_time": "15:28:10 02/05/2024",
+            "from_id": "3642371097976835684",
+            "from_display_name": "Wecare - Chăm sóc khách hàng",
+            "from_avatar": "https://s240-ava-talk.zadn.vn/e/1/8/6/2/240/2f9da721faa048dfbeb7660757bfc75f.jpg",
+            "to_id": "6681841366487345874",
+            "to_display_name": "Thoa Võ",
+            "to_avatar": "https://s240-ava-talk.zadn.vn/5/5/1/6/2/240/d96a8753f5dd687a11dc66dd0d7420d0.jpg",
+            "message_id": "b40c10a6a653a609ff46",
+            "type": "text",
+            "message": "Dạ em gửi xe Duy Tài ạ"
+        },
+        {
+            "src": 1,
+            "time": 1714638416460,
+            "sent_time": "15:26:56 02/05/2024",
+            "from_id": "1992687888304926927",
+            "from_display_name": "Huỳnh Mạnh",
+            "from_avatar": "https://s240-ava-talk.zadn.vn/6/4/5/d/44/240/5eafd9bd021d8699882d91a62b3b74fa.jpg",
+            "to_id": "3642371097976835684",
+            "to_display_name": "Wecare - Chăm sóc khách hàng",
+            "to_avatar": "https://s240-ava-talk.zadn.vn/e/1/8/6/2/240/2f9da721faa048dfbeb7660757bfc75f.jpg",
+            "message_id": "f46f3755ffa0fffaa6b5",
+            "type": "text",
+            "message": "Wecare Chăm Sóc khách hàng"
+        },
+        {
+            "src": 0,
+            "time": 1714638353908,
+            "sent_time": "15:25:53 02/05/2024",
+            "from_id": "3642371097976835684",
+            "from_display_name": "Wecare - Chăm sóc khách hàng",
+            "from_avatar": "https://s240-ava-talk.zadn.vn/e/1/8/6/2/240/2f9da721faa048dfbeb7660757bfc75f.jpg",
+            "to_id": "6166480739970779899",
+            "to_display_name": "Trung Nhân",
+            "to_avatar": "https://s240-ava-talk.zadn.vn/5/0/b/7/8/240/d11e3e02d30cb5b50fa3692325349135.jpg",
+            "message_id": "6b81411174e374b92df6",
+            "type": "text",
+            "message": "Dạ em cảm ơn Anh ạ"
+        },
+        {
+            "src": 0,
+            "time": 1714638336804,
+            "sent_time": "15:25:36 02/05/2024",
+            "from_id": "3642371097976835684",
+            "from_display_name": "Wecare - Chăm sóc khách hàng",
+            "from_avatar": "https://s240-ava-talk.zadn.vn/e/1/8/6/2/240/2f9da721faa048dfbeb7660757bfc75f.jpg",
+            "to_id": "2912357248481693186",
+            "to_display_name": "Nguyễn Thị Phượng",
+            "to_avatar": "https://s240-ava-talk.zadn.vn/e/3/9/a/0/240/38289cca6e9e73dbc17aa29adaf88248.jpg",
+            "message_id": "e3e8cd84c876c82c9163",
+            "type": "nosupport"
+        },
+        {
+            "src": 0,
+            "time": 1714638239698,
+            "sent_time": "15:23:59 02/05/2024",
+            "from_id": "3642371097976835684",
+            "from_display_name": "Wecare - Chăm sóc khách hàng",
+            "from_avatar": "https://s240-ava-talk.zadn.vn/e/1/8/6/2/240/2f9da721faa048dfbeb7660757bfc75f.jpg",
+            "to_id": "5282228833440582438",
+            "to_display_name": "Tạ Thị Thu Thúy",
+            "to_avatar": "https://s240-ava-talk.zadn.vn/c/0/1/c/2/240/dfccd8705f9034b4395d00cfd67ad612.jpg",
+            "message_id": "49bb6703c0f1c0ab99e4",
+            "type": "photo",
+            "thumb": "https://f2-brcast-msg-photo.zadn.vn/8748577799213106249/26f424f651bab8e4e1ab.jpg",
+            "url": "https://f2-brcast-msg-photo.zadn.vn/8748577799213106249/26f424f651bab8e4e1ab.jpg",
+            "description": "Dạ em gửi chị Thúy đơn hàng mình đặt hôm nay, nhờ chị xem qua đơn hàng giúp em đã đúng chưa nhé ạ. Em cảm ơn chị ạ"
+        }
+    ],
+    "error": 0,
+    "message": "Success"
+}
+const express = require('express');
+const bodyParser = require('body-parser');
+const axios = require('axios');
+const app = express();
+const port = 8081;
+const token = 't59pTta0_IZIKNfxUWlnAj5HUNXr78CgqIfk63fwkG-IBKGpQtsK8BfIQ2L7UP0phrD0BsHPodZ9NYKdFWli2F8j1bezDDnurHbIV70_kKszQ7DT5KYASV1e32ygPUfutsWOSpbQqcByLIKq3GJV9iuB0H0A7FX5sX4JHdKNr5BG8LnvUIc1JgC13XXdLFKoY5aY4dO3s1MX3bCRQ1IqCxm-I19QDPCoYmyP82TSyX7X1YSuH2ZC5BaHH31ADQ5dvtjRSmejq7_G7bT9EZkiTPOJPMjm0xHLhpDQ0KS_YIsU4tTyTpARVAOqPrLt9PjNqXHfIJm0Wb-MDbjfFIRNUiSiBJ4yBFi2w1yqKpiM-LBN9YTu0NMgHCzvTcO9V_n3ysHnNpatjq34F6ni2ckbHFLNQ4LvKvnZlsPq7_ya';
+app.use(bodyParser.json());
+
+app.post('/webhooks', (req, res) => {
+    const event = req.body;
+    //console.log('Nội dung của yêu cầu:', event);
+
+    hookProcess(event);
+    res.status(200).send('Yêu cầu đã được xử lý thành công.');
+});
+function hookProcess(event) {
+    switch (event.event_name) {
+        case "user_send_text":
+            textProcess(event);
+            break;
+        default:
+            break;
+    }
+}
+
+function textProcess(event) {
+    const senderId = event.sender.id;
+    const messageText = event.message.text;
+    console.log(`User ${senderId} send text "${messageText}"`);
+    console.log(`Event Type` + JSON.stringify(event));
+
+    axios({
+        method: "POST",
+        // url: "https://openapi.zalo.me/v3.0/oa/message/cs",
+        url: 'https://openapi.zalo.me/v2.0/oa/listrecentchat?data={"offset":0,"count":5}',
+        headers: {
+            "Authorization": `Bearer ${token}`
+        },
+        data: {
+            recipient: {
+                user_id: senderId
+            },
+            message: {
+                text: messageText
+            }
+        }
+    })
+        .then(response => {
+            console.log("Done Get message", response.data);
+            // Chuyển đổi kết quả trả về thành chuỗi JSON
+            const jsonResponse = JSON.stringify(response.data);
+            console.log("API Response:", jsonResponse);
+        })
+        .catch(error => console.error("Error sending message to Zalo API:", error));
+}
+
+// Lắng nghe các yêu cầu trên cổng đã chọn
+app.listen(port, () => {
+    console.log(`Ứng dụng đang lắng nghe tại http://localhost:${port}`);
+});
